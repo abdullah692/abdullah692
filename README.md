@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah692&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah692" /> </p>
 
-- 🔭 I’m currently working on **Digilib FYDP Project**
+- 🔭 I’m currently working on Quanrio as Associate Forntend Developer.
 
 - 🌱 I’m currently learning **Backend for MERN development**
 
