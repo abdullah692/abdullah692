@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Siddiqui</h1>
-<h3 align="center">A frontend developer who experience to work on javascript framworks i.e : react.js , react native</h3>
+<h3 align="center">A frontend developer who experience working on javascript frameworks i.e: react.js, react native , vue js , node js ,express js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah692&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah692" /> </p>
 
-- 🔭 I’m currently working on Quanrio as Associate Forntend Developer.
+- 🔭 I’m currently working at Teresol Pvt Limited as a Software Design Engineer.
 
 - 🌱 I’m currently learning **Backend for MERN development**
 
